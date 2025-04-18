@@ -1,0 +1,7 @@
+.vs/
+*.pyc
+__pycache__/
+*.pkl
+.env
+.DS_Store
+.ipynb_checkpoints/
