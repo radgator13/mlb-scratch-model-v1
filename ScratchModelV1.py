@@ -1,5 +1,6 @@
 ﻿import os
 import subprocess
+from datetime import datetime
 
 def run(script):
     print(f"🚀 Running: {script}")
@@ -26,6 +27,16 @@ run("train_model_away_score.py")
 # === Step 5: Run predictions and generate outputs ===
 run("make_predictions.py")
 
+# === Step 6: GitHub Commit + Push ===
+print("\n📦 Committing and pushing to GitHub...")
+try:
+    subprocess.run(["git", "add", "."], check=True)
+    commit_msg = f"🔄 Auto-update: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+    subprocess.run(["git", "commit", "-m", commit_msg], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    print("✅ GitHub push complete.")
+except subprocess.CalledProcessError as e:
+    print(f"❌ Git push failed: {e}")
+
 print("\n✅ Pipeline complete. You can now run the dashboard:")
 print("👉  streamlit run mlb_predictions_dashboard.py")
-
