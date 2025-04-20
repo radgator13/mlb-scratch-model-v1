@@ -255,7 +255,7 @@ Game Date,Home Team,Away Team,Bookmaker Used,ML Away,ML Home,Spread Away,Spread 
 2025-04-17,Tampa Bay Rays,New York Yankees,MyBookie.ag,1.92,1.93,-1.5,2.5,1.5,1.56,9.0,1.99,1.83,12-7,6.0,8-11,3.0
 2025-04-17,New York Mets,St. Louis Cardinals,MyBookie.ag,2.15,1.74,1.5,1.56,-1.5,2.5,8.0,1.98,1.84,9-10,1.0,12-7,4.0
 2025-04-18,Texas Rangers,Los Angeles Angels,MyBookie.ag,2.27,1.67,1.5,1.67,-1.5,2.3,9.5,1.94,1.87,,,,
-2025-04-19,Colorado Rockies,Washington Nationals,MyBookie.ag,1.75,2.14,-1.5,2.2,1.5,1.71,8.5,1.9,1.91,7-12,,3-15,
+2025-04-19,Colorado Rockies,Washington Nationals,MyBookie.ag,1.75,2.14,-1.5,2.2,1.5,1.71,8.5,1.9,1.91,8-12,12.0,3-16,11.0
 2025-04-18,Chicago Cubs,Arizona Diamondbacks,MyBookie.ag,6.0,1.12,2.5,1.75,-2.5,2.0,7.0,1.9,1.8,12-8,11.0,13-9,13.0
 2025-04-18,Pittsburgh Pirates,Cleveland Guardians,MyBookie.ag,1.75,2.13,-1.5,2.3,1.5,1.67,8.5,1.87,1.94,10-9,10.0,8-13,7.0
 2025-04-18,Detroit Tigers,Kansas City Royals,MyBookie.ag,1.71,2.2,-1.5,2.22,1.5,1.69,7.5,1.88,1.94,8-13,3.0,12-8,7.0
@@ -266,18 +266,33 @@ Game Date,Home Team,Away Team,Bookmaker Used,ML Away,ML Home,Spread Away,Spread 
 2025-04-18,Atlanta Braves,Minnesota Twins,MyBookie.ag,2.21,1.7,1.5,1.59,-1.5,2.45,8.0,1.87,1.94,7-13,4.0,6-13,6.0
 2025-04-18,Boston Red Sox,Chicago White Sox,MyBookie.ag,2.79,1.47,1.5,1.87,-1.5,1.95,9.0,1.85,1.96,4-15,3.0,11-10,10.0
 2025-04-18,New York Mets,St. Louis Cardinals,MyBookie.ag,2.65,1.51,1.5,1.74,-1.5,2.14,8.0,1.87,1.95,9-11,4.0,13-7,5.0
-2025-04-19,Los Angeles Angels,San Francisco Giants,MyBookie.ag,1.62,2.36,-1.5,2.05,1.5,1.8,8.0,1.92,1.89,13-7,,10-9,
-2025-04-19,Philadelphia Phillies,Miami Marlins,MyBookie.ag,2.78,1.47,1.5,1.91,-1.5,1.91,10.0,1.92,1.89,8-11,,12-8,
-2025-04-19,Detroit Tigers,Kansas City Royals,MyBookie.ag,2.01,1.85,,,,,,,,8-13,,12-8,
-2025-04-19,Chicago Cubs,Arizona Diamondbacks,MyBookie.ag,1.89,1.96,-1.5,2.5,1.5,1.56,7.5,1.92,1.89,12-8,,13-9,
-2025-04-19,Toronto Blue Jays,Seattle Mariners,MyBookie.ag,1.78,2.09,-1.5,2.3,1.5,1.67,8.5,1.95,1.86,10-10,,12-8,
-2025-04-19,Baltimore Orioles,Cincinnati Reds,MyBookie.ag,1.88,1.96,-1.5,2.45,1.5,1.59,9.0,1.95,1.86,10-10,,8-11,
-2025-04-19,Pittsburgh Pirates,Cleveland Guardians,MyBookie.ag,2.52,1.56,1.5,1.74,-1.5,2.15,7.5,1.85,1.97,10-9,,8-13,
-2025-04-19,Texas Rangers,Los Angeles Dodgers,MyBookie.ag,1.78,2.09,-1.5,2.3,1.5,1.67,8.5,1.91,1.9,15-6,,12-8,
-2025-04-19,New York Mets,St. Louis Cardinals,MyBookie.ag,2.43,1.59,1.5,1.71,-1.5,2.2,8.5,1.97,1.84,9-11,,13-7,
-2025-04-19,Boston Red Sox,Chicago White Sox,MyBookie.ag,3.53,1.32,2.5,1.8,-2.5,2.05,8.5,1.91,1.9,4-15,,11-10,
-2025-04-19,Tampa Bay Rays,New York Yankees,MyBookie.ag,2.15,1.74,1.5,1.59,-1.5,2.45,9.0,1.82,1.99,13-7,,8-12,
-2025-04-19,Houston Astros,San Diego Padres,MyBookie.ag,1.82,2.0,-1.5,2.4,1.5,1.62,8.0,1.9,1.91,15-5,,9-10,
+2025-04-19,Los Angeles Angels,San Francisco Giants,MyBookie.ag,1.62,2.36,-1.5,2.05,1.5,1.8,8.0,1.92,1.89,14-7,3.0,10-10,2.0
+2025-04-19,Philadelphia Phillies,Miami Marlins,MyBookie.ag,2.78,1.47,1.5,1.91,-1.5,1.91,10.0,1.92,1.89,8-12,10.0,13-8,11.0
+2025-04-19,Detroit Tigers,Kansas City Royals,MyBookie.ag,2.01,1.85,,,,,,,,8-14,1.0,13-8,3.0
+2025-04-19,Chicago Cubs,Arizona Diamondbacks,MyBookie.ag,1.89,1.96,-1.5,2.5,1.5,1.56,7.5,1.92,1.89,12-9,2.0,14-9,6.0
+2025-04-19,Toronto Blue Jays,Seattle Mariners,MyBookie.ag,1.78,2.09,-1.5,2.3,1.5,1.67,8.5,1.95,1.86,11-10,8.0,12-9,4.0
+2025-04-19,Baltimore Orioles,Cincinnati Reds,MyBookie.ag,1.88,1.96,-1.5,2.45,1.5,1.59,9.0,1.95,1.86,10-11,5.0,9-11,9.0
+2025-04-19,Pittsburgh Pirates,Cleveland Guardians,MyBookie.ag,2.52,1.56,1.5,1.74,-1.5,2.15,7.5,1.85,1.97,11-9,3.0,8-14,0.0
+2025-04-19,Texas Rangers,Los Angeles Dodgers,MyBookie.ag,1.78,2.09,-1.5,2.3,1.5,1.67,8.5,1.91,1.9,15-7,3.0,13-8,4.0
+2025-04-19,New York Mets,St. Louis Cardinals,MyBookie.ag,2.43,1.59,1.5,1.71,-1.5,2.2,8.5,1.97,1.84,9-12,0.0,14-7,3.0
+2025-04-19,Boston Red Sox,Chicago White Sox,MyBookie.ag,3.53,1.32,2.5,1.8,-2.5,2.05,8.5,1.91,1.9,4-16,3.0,12-10,4.0
+2025-04-19,Tampa Bay Rays,New York Yankees,MyBookie.ag,2.15,1.74,1.5,1.59,-1.5,2.45,9.0,1.82,1.99,13-8,8.0,9-12,10.0
+2025-04-19,Houston Astros,San Diego Padres,MyBookie.ag,1.82,2.0,-1.5,2.4,1.5,1.62,8.0,1.9,1.91,15-6,2.0,10-10,3.0
 2025-04-19,Milwaukee Brewers,Oakland Athletics,MyBookie.ag,2.09,1.75,1.5,1.56,-1.5,2.5,8.5,1.97,1.84,,,,
-2025-04-19,Atlanta Braves,Minnesota Twins,MyBookie.ag,2.67,1.48,1.5,1.8,-1.5,2.05,8.0,1.98,1.84,7-13,,6-13,
-2025-04-20,Los Angeles Angels,San Francisco Giants,MyBookie.ag,1.79,2.04,-1.5,2.35,1.5,1.65,8.5,1.82,2.0,,,,
+2025-04-19,Atlanta Braves,Minnesota Twins,MyBookie.ag,2.67,1.48,1.5,1.8,-1.5,2.05,8.0,1.98,1.84,7-14,3.0,7-13,4.0
+2025-04-20,Atlanta Braves,Minnesota Twins,MyBookie.ag,2.02,1.84,-1.5,2.65,1.5,1.48,8.0,1.98,1.83,7-14,,7-13,
+2025-04-20,Baltimore Orioles,Cincinnati Reds,MyBookie.ag,2.37,1.62,1.5,1.71,-1.5,2.2,9.5,1.94,1.87,10-11,,9-11,
+2025-04-20,Boston Red Sox,Chicago White Sox,MyBookie.ag,3.28,1.36,1.5,2.1,-1.5,1.77,8.5,1.87,1.94,4-16,,12-10,
+2025-04-20,Pittsburgh Pirates,Cleveland Guardians,MyBookie.ag,1.97,1.88,-1.5,2.55,1.5,1.53,8.0,1.84,1.97,11-9,,8-14,
+2025-04-20,Philadelphia Phillies,Miami Marlins,MyBookie.ag,3.54,1.32,2.5,1.77,-2.5,2.1,8.0,1.84,1.98,8-12,,13-8,
+2025-04-20,Toronto Blue Jays,Seattle Mariners,MyBookie.ag,1.84,2.01,-1.5,2.4,1.5,1.62,8.0,1.87,1.94,11-10,,12-9,
+2025-04-20,Detroit Tigers,Kansas City Royals,MyBookie.ag,2.73,1.49,1.5,1.72,-1.5,2.17,6.5,1.83,1.99,8-14,,13-8,
+2025-04-20,New York Mets,St. Louis Cardinals,MyBookie.ag,2.2,1.71,1.5,1.56,-1.5,2.5,7.0,1.86,1.95,9-12,,14-7,
+2025-04-20,Tampa Bay Rays,New York Yankees,MyBookie.ag,1.65,2.3,-1.5,2.15,1.5,1.74,8.5,1.94,1.87,13-8,,9-12,
+2025-04-20,Milwaukee Brewers,Oakland Athletics,MyBookie.ag,1.92,1.93,-1.5,2.5,1.5,1.56,8.0,1.85,1.96,,,,
+2025-04-20,Chicago Cubs,Arizona Diamondbacks,MyBookie.ag,2.07,1.8,1.5,1.5,-1.5,2.6,7.0,1.82,2.0,12-9,,14-9,
+2025-04-20,Texas Rangers,Los Angeles Dodgers,MyBookie.ag,1.65,2.3,-1.5,2.05,1.5,1.8,8.5,1.83,1.99,15-7,,13-8,
+2025-04-20,Colorado Rockies,Washington Nationals,MyBookie.ag,1.87,1.98,-1.5,2.35,1.5,1.65,10.5,1.96,1.85,8-12,,3-16,
+2025-04-20,Los Angeles Angels,San Francisco Giants,MyBookie.ag,1.89,1.96,-1.5,2.45,1.5,1.59,8.5,1.86,1.95,14-7,,10-10,
+2025-04-20,Houston Astros,San Diego Padres,MyBookie.ag,2.04,1.82,-1.5,2.65,1.5,1.48,7.5,1.9,1.91,15-6,,10-10,
+2025-04-21,Colorado Rockies,Washington Nationals,MyBookie.ag,1.84,2.01,-1.5,2.3,1.5,1.67,,,,,,,
